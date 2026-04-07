@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kenhuang041/kenhuang041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <img src="https://via.placeholder.com/150" width="120" /> -->
 
-Here are some ideas to get you started:
+# kenhuang041
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 測試標籤
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+</div>
+
+## 專案組成
+
+| 專案名稱 | 說明 | 技術棧 |
+| :--- | :--- | :--- |
+| [My Awesome App](#) | App1 | Swift / SwiftUI |
+| [Server Backend](#) | Server | Python / FastAPI |
+
+## 🛠 技能專長
+* **Frontend:** SwiftUI, Flutter, React Native
+* **Backend:** Python (FastAPI, Flask), Node.js
+* **Tools:** Git, Docker, Firebase
+
+---
+
+<div align="center">
+  <p>測試文本</p>
+</div>
