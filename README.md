@@ -6,7 +6,7 @@
 
 ### 技能專長
 
-![Cpp](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
